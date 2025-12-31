@@ -1,5 +1,19 @@
-# 💫 About Me:
-React | Node.js | Express | JavaScript | Python | FastAPI | Postgresql | WebSockets | Three.js | Globe.gl | Vercel | Render<br>- LinkedIn: https://www.linkedin.com/in/anuj-sharma-17a124275/<br>- GitHub: github.com/anujsharma-05<br>- Twitter: https://twitter.com/anujsharma5<br># 👋 Hi, I’m Anuj Sharma (anujsharma-05)<br>Full-Stack Developer | Applied ML <br>
+👋 Hi, I’m Anuj Sharma (@anujsharma-05)
+
+🚀 Full-Stack Developer | Applied Machine Learning | Real-Time Systems Enthusiast  
+
+I love building **production-grade web applications** that combine strong backend design with beautiful, interactive frontends.
+
+💡 What I focus on:
+- Architecting scalable backends using **FastAPI, Node.js & SQL**
+- Building real-time systems using **WebSockets**
+- Creating immersive visualizations with **Three.js & Globe.gl**
+- Exploring **Applied Machine Learning** and data-driven products
+
+🎯 Current goals:
+- Master backend engineering fundamentals  
+- Ship real-world deployable products  
+- Contribute meaningfully to open-source  
 
 
 ## 🌐 Socials:
