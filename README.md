@@ -25,7 +25,9 @@ I love building **production-grade web applications** that combine strong backen
 ![](https://nirzak-streak-stats.vercel.app/?user=anujsharma-05&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anujsharma-05&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/anujsharma-05/anujsharma-05/output/snake.svg" alt="Snake animation" />
 
 ###
 
