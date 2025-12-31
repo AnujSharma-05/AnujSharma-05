@@ -25,19 +25,18 @@ I love building **production-grade web applications** that combine strong backen
 ![](https://nirzak-streak-stats.vercel.app/?user=anujsharma-05&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anujsharma-05&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/anujsharma-05/anujsharma-05/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anujsharma-05&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anujsharma-05&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anujsharma-05&icon=8&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=anujsharma-05&icon=8&color=8)](https://visitcount.itsvg.in) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
