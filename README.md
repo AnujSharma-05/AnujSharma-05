@@ -1,16 +1,17 @@
-## Hi there 👋
+I'm a Computer Engineering student at **PDEU (CSE '27)**, currently interning at **Jio Platforms (Cortex AI)** where I build production RAG infrastructure — async ETL pipelines, vector retrieval, and agentic LLM workflows. I'm interested in distributed systems, AI infrastructure, and real-time backends.
 
-<!--
-**AnujSharma-05/AnujSharma-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Previously at **Bridge India**, building async FastAPI services and WebSocket systems at scale. Winner of **Hackout'25 (DA-IICT)** and **Nirmaan 1.0 (ECell-PDEU)**.
 
-Here are some ideas to get you started:
+[LinkedIn](https://linkedin.com/in/anuj-sharma-17a124275) · [Email](mailto:anujsharma181005@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Stack
+
+`Python` `C++` `JavaScript` `FastAPI` `Node.js` `React` `LangGraph` `LangChain` `CrewAI` `RAG` `Milvus` `ChromaDB` `PostgreSQL` `Docker` `Nginx` `AWS`
+
+---
+
+## Let's collaborate
+
+Open to working on **AI tooling, RAG systems, distributed backends,** or anything production-grade and genuinely hard. Reach me at anujsharma181005@gmail.com.
