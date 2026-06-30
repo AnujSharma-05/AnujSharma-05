@@ -1,4 +1,4 @@
-I'm a Computer Engineering student at **PDEU (CSE '27)**, currently interning at **Jio Platforms (Cortex AI)** where I build production RAG infrastructure — async ETL pipelines, vector retrieval, and agentic LLM workflows. I'm interested in distributed systems, AI infrastructure, and real-time backends.
+I'm a Computer Engineering student at **PDEU (CSE '27)**, currently interning at **Jio Platforms (Cortex AI)** where I build production RAG infrastructure, async ETL pipelines, vector retrieval, and agentic LLM workflows. I'm interested in distributed systems, AI infrastructure, and real-time backends.
 
 Previously at **Bridge India**, building async FastAPI services and WebSocket systems at scale. Winner of **Hackout'25 (DA-IICT)** and **Nirmaan 1.0 (ECell-PDEU)**.
 
